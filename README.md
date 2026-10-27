@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Zhixin Yue 👋
 
+🎓 Computer Science graduate student at Nankai University.
+
+🤖 Interested in AI Agents, focusing on MCP, Tool Use, and Agent Workflows.
+
+🛠️ Experienced in Python, C++, PyTorch, and LLM application development.
+
+💻 Familiar with heterogeneous computing, edge AI, and embedded development boards.
+
+🚀 Currently exploring Agent Infrastructure and LLM Inference Systems.
+
+🌱 Passionate about building efficient and practical AI systems.
 <!--
 **Q-qiuqiu/Q-qiuqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
