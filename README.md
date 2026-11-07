@@ -1,4 +1,4 @@
-## Hi there, I'm Zhixin Yue 👋
+## Hi there, I'm Q-qiuqiu 👋
 
 🎓 Computer Science graduate student at Nankai University.
 
